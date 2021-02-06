@@ -18,3 +18,8 @@ Do not forget to change root and none root user password before reboot .
 passwd root
 
 passwd user
+
+
+[ 0day (xc) Our ] 
+
+Contact : chat.freenode.net , channel #0xday
